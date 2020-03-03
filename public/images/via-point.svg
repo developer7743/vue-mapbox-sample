@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="51"
+     viewBox="0 0 39 51">
+    <defs>
+        <clipPath id="clip-Via_Point">
+            <rect width="39" height="51"/>
+        </clipPath>
+    </defs>
+    <g id="Via_Point" data-name="Via Point" clip-path="url(#clip-Via_Point)">
+        <rect width="39" height="51" fill="none"/>
+        <path id="Path_2788" data-name="Path 2788"
+              d="M-909.333,547.333c0,12.367-16.333,30.333-16.333,30.333S-942,559.467-942,547.333A16.233,16.233,0,0,1-925.667,531,16.233,16.233,0,0,1-909.333,547.333Z"
+              transform="translate(945 -529)" fill="#fff" stroke="#faa934" stroke-width="2"/>
+    </g>
+</svg>

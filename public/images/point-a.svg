@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="51"
+     viewBox="0 0 39 51">
+    <defs>
+        <clipPath id="clip-Point_A">
+            <rect width="39" height="51"/>
+        </clipPath>
+    </defs>
+    <g id="Point_A" data-name="Point A" clip-path="url(#clip-Point_A)">
+        <rect width="39" height="51" fill="none"/>
+        <g id="Group_8316" data-name="Group 8316" transform="translate(-1152.667 -233.666)">
+            <path id="Path_2781" data-name="Path 2781"
+                  d="M-909.333,547.333c0,12.367-16.333,30.333-16.333,30.333S-942,559.467-942,547.333A16.233,16.233,0,0,1-925.667,531,16.233,16.233,0,0,1-909.333,547.333Z"
+                  transform="translate(2097.667 -295.333)" fill="#fff" stroke="#036975" stroke-width="2"/>
+            <text id="A" transform="translate(1166 260)" fill="#036975" font-size="18"
+                  font-family="Raleway, Arial, sans-serif" font-weight="700" letter-spacing="0.01em">
+                <tspan x="0" y="0">A</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
